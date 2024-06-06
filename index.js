@@ -1,5 +1,5 @@
 import express from "express";
-import Router from "./src/routes/sarasa.routes.js";
+import Router from "./src/routes/calificaciones.routes.js";
 
 
 const app = express();
